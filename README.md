@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Yelp business reviews</h2>
 
-![Yelp dataset header](https://github.com/luminati-io/Yelp-dataset-samples/blob/main/yelp-datasets.PNG)
+![Yelp dataset header](https://github.com/luminati-io/Yelp-dataset-samples/blob/main/yelp-datasets.png)
 
 A Yelp dataset sample of over 1000 Yelp business reviews. Dataset was extracted using the <b>Bright Data API</b>.
 
